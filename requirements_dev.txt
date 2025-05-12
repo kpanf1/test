@@ -2,3 +2,4 @@ Sphinx>=1.3
 selenium>=2.45
 django-dynamic-fixture>=1.8
 ipython
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
